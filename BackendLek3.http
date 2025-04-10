@@ -1,0 +1,6 @@
+@BackendLek3_HostAddress = http://localhost:5076
+
+GET {{BackendLek3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
